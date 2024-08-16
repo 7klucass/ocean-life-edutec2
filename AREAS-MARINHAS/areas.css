@@ -65,7 +65,7 @@ h1, p {
     width: 100%;
     position: absolute;
     text-align: center;
-    top: 30%;
+    top: 5%;
 }
 .cabeçalho img {
     width: 100%;
@@ -76,7 +76,7 @@ h1, p {
 
 section p {
     font-family: "Roboto Slab", serif;
-    font-size: 2.875rem;
+    font-size: 2.5rem;
     font-weight: 400;
     text-align: justify;
 }
@@ -99,7 +99,7 @@ section div {
 
 .img img{
     padding-top: 20vh;
-    height: 108vh;
+    height: 130vh;
     width: 100%;
 }
 
@@ -107,7 +107,7 @@ section div {
     font-family: "Roboto Slab", serif;
     display: flex;
     justify-content: center;
-    font-size: 2.625rem;
+    font-size: 2.9rem;
     font-weight: 400;
     text-align: justify;
     padding-top: 15rem;

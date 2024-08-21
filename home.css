@@ -302,6 +302,7 @@ header .logo-site {
     z-index: 1;
     top: 8%;
     transition: transform 0.5s ease; 
+    cursor: pointer;
 
 
 }
@@ -491,16 +492,16 @@ header .logo-site {
 
 .imagem-tartaruga4 {
     padding: 3.125rem; 
-    padding-left: 1.875rem; 
-    width: 35rem; 
+    padding-left: 0rem; 
+    width: 41rem; 
     height: auto;
     margin-right: 5.625rem;
-    margin-top: 5.3125rem; 
+    margin-top: 9rem; 
 }
 
 .text-fundo4 {
     position: absolute;
-    right: 7.5rem; 
+    right: 1rem; 
     top: 50%;
     transform: translateY(-90%); 
     color: white; 
@@ -509,6 +510,7 @@ header .logo-site {
 }
     
 .text-fundo4 h1 {
+    right: 10rem; 
     text-decoration: underline;
     text-underline-offset: 1rem;
     text-decoration-thickness: 0.4rem;
@@ -520,7 +522,7 @@ header .logo-site {
     font-family: Roboto Slab;
     font-weight: 500; 
     margin-top: 2.5rem; 
-    right: 6.875rem; 
+
 }
 
 .text-fundo4 p {
@@ -532,8 +534,8 @@ header .logo-site {
     word-wrap: break-word;
     display: flex;
     justify-content: right;
-    right: 5rem; 
-    text-align: justify;
+    right: 15rem; 
+    text-align: center;
     text-shadow: 0.125rem 0.125rem 0.3125rem rgba(0, 0, 0, 0.5); 
 }
 
